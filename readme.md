@@ -51,9 +51,6 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 ### Recruiter Final Landing Page
 ![Recruiter Final Landing Page](screenshots/rr_final.png)
 
-### Demo 
-![Demo](screenshots/Demo.mp4)
-
 ## Documentation
 
 For more detailed information, please refer to the [docs](./docs) directory.
