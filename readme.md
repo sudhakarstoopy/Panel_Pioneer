@@ -26,6 +26,10 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 
 6. ## User Interface
 
+
+### Homepage 
+![/homepage Screenshot](screenshots/home.png)
+
 ### Dashboard
 ![Dashboard Screenshot](assets/dashboard_screenshot.png)
 
