@@ -24,6 +24,17 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 4. Run the backend: `python src/backend/api/routes.py`
 5. Run the frontend: `cd src/frontend && npm start`
 
+6. ## User Interface
+
+### Dashboard
+![Dashboard Screenshot](assets/dashboard_screenshot.png)
+
+### Job Matching
+![Job Matching Interface](assets/job_matching_screenshot.png)
+
+### Resume Upload
+![Resume Upload Page](assets/resume_upload_screenshot.png)
+
 ## Documentation
 
 For more detailed information, please refer to the [docs](./docs) directory.
