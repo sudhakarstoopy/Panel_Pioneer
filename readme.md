@@ -35,11 +35,24 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 
 ![Candidate Dashboard Screenshot](screenshots/can_dashboard.png)
 
-### Job Matching
-![Job Matching Interface](assets/job_matching_screenshot.png)
+### Interview TimeSlot Booking
+![Interview TimeSlot Booking](screenshots/can_book_int.png)
+
+![Interview TimeSlot Booking1](screenshots/can_book.png)
+
+### Candidate Final Landing Page
+![Candidate Final Landing Page](screenshots/can_final.png)
 
 ### Resume Upload
 ![Resume Upload Page](assets/resume_upload_screenshot.png)
+
+### Recruiter Finding Interview Panel
+![Recruiter Finding Interview Panel](screenshots/rr_find_int_panel.png)
+
+![Recruiter Finding Interview Panel](screenshots/rr_int_panel_list.png)
+
+### Recruiter Final Landing Page
+![Recruiter Final Landing Page](screenshots/rr_final.png)
 
 ## Documentation
 
