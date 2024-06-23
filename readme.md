@@ -28,10 +28,12 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 
 
 ### Homepage 
-![/homepage Screenshot](screenshots/home.png)
+![Homepage Screenshot](screenshots/home.png)
 
 ### Dashboard
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Recruiter Dashboard Screenshot](screenshots/rr_dashboard.png)
+
+![Candidate Dashboard Screenshot](screenshots/can_dashboard.png)
 
 ### Job Matching
 ![Job Matching Interface](assets/job_matching_screenshot.png)
