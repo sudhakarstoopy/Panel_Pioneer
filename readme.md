@@ -43,9 +43,6 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 ### Candidate Final Landing Page
 ![Candidate Final Landing Page](screenshots/can_final.png)
 
-### Resume Upload
-![Resume Upload Page](assets/resume_upload_screenshot.png)
-
 ### Recruiter Finding Interview Panel
 ![Recruiter Finding Interview Panel](screenshots/rr_find_int_panel.png)
 
@@ -53,6 +50,9 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 
 ### Recruiter Final Landing Page
 ![Recruiter Final Landing Page](screenshots/rr_final.png)
+
+### Demo 
+![Demo](screenshots/Demo.mp4)
 
 ## Documentation
 
