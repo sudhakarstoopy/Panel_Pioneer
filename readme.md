@@ -20,3 +20,5 @@ Panel Pioneer is an innovative platform designed to streamline the job applicati
 2. Install dependencies:
    ```bash
    npm install
+3. Set up environment variables for Outlook API and job portal APIs.
+   
