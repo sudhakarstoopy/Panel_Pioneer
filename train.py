@@ -1,5 +1,3 @@
-src/backend/bert_model/train.py:
-```python
 import tensorflow as tf
 from transformers import BertTokenizer, TFBertForSequenceClassification
 
